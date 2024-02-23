@@ -4,7 +4,7 @@
 <li>Par instanciation dynamique</li>
 
 
-<img src="PresentationV1.PNG">
+<img src="Captures/PresentationV1.PNG">
 <hr/>
 
 
@@ -12,11 +12,11 @@
 
 <h3>- Version annotations</h3>
 <hr/>
-<img src="PresentationVAnnotation.PNG">
+<img src="Captures/PresentationVAnnotation.PNG">
 <hr/>
 
 
 <h3>- Version XML</h3>
 <hr/>
-<img src="PresentationSpringXML.PNG">
+<img src="Captures/PresentationSpringXML.PNG">
 <hr/>
