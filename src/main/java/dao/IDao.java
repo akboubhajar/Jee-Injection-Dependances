@@ -1,2 +1,5 @@
-package dao;public interface IDao {
+package dao;
+
+public interface IDao {
+    double getData();
 }
