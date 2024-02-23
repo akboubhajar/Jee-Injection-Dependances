@@ -1,5 +1,6 @@
 <h1>Injection des dépendances</h1>
-<h3>l'injection des dépendances :</h3>
+<hr/>
+
 <li>Par instanciation statique</li>
 <li>Par instanciation dynamique</li>
 
@@ -19,4 +20,9 @@
 <h3>- Version XML</h3>
 <hr/>
 <img src="Captures/PresentationSpringXML.PNG">
+<hr/>
+
+<h3>Diagram</h3>
+<hr/>
+<img src="Captures/Diagram.PNG">
 <hr/>

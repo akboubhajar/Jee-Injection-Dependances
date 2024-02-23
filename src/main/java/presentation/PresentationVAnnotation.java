@@ -6,8 +6,7 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 
 public class PresentationVAnnotation {
     public static void main(String[] args) {
-        ApplicationContext context = new AnnotationConfigApplicationContext("dao","metier");
-        // ApplicationContext context = new AnnotationConfigApplicationContext("ext","metier");
+        ApplicationContext context = new AnnotationConfigApplicationContext("extension","metier","dao");
         IMetier metier = context.getBean(IMetier.class);
         System.out.println("Result: "+metier.calcul());
     }
